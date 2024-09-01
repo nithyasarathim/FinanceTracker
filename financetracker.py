@@ -257,3 +257,5 @@ update_summary()
 update_charts()
 
 root.mainloop()
+
+#next update should be on changing the entire file to HTML, CSS and JS with some modifications
